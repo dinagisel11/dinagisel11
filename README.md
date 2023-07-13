@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dinagisel11
-- 👀 I’m interested in predictive modeling, crafting, traveling & cats!
-- 💼 I currently work in an Actuarial Department at a major insurance carrier building predictive models
-- 🌱 I’m currently learning image processing and Neural Networks in my Masters Program at DePaul University
-- 📫 dinagisel11@gmail.com...
+- 👀 I’m interested in predictive modeling, crafting, traveling, cats, DIY Projects and being a mom to my daughter
+- 💼 I currently work in an Actuarial Department at a major insurance carrier building predictive models for the reserving team
+- 🌱 I received my Masters in Data Science from DePaul University in June 2023 and am excited to start my Data Science Career
+- 📫 dinagisel11@gmail.com
 
 <!---
 dinagisel11/dinagisel11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
